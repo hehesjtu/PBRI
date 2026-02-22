@@ -29,20 +29,6 @@ PBRI (Pixel-consistency Bilinear Residual Isomorphism): A single image detail en
 3.Before running, confirm that all algorithm-dependent scripts and function files are in the same directory as main.m or have been added to the MATLAB search path.
 
 4.This project is developed based on MATLAB and does not support direct operation in other programming environments for the time being.
-               
-<!-- ## 6.Comparison of Image Enhancement Effects of PBRI Algorithm
-| Original image | Enhanced image | PSNR/SSIM |
-| :---: | :---: | :---: |
-| ![原图1](.\data\carpet.png)   | ![增强图1](.\results\carpet_PBRI.png)   | 26.18/0.8880 |
-| ![原图2](.\data\flowers.png)  | ![增强图2](.\results\flowers_PBRI.png)  | 27.51/0.9085 |
-| ![原图3](.\data\star.png)     | ![增强图3](.\results\star_PBRI.png)     | 23.91/0.8274 |
-| ![原图4](.\data\window.png)   | ![增强图4](.\results\window_PBRI.png)   | 28.20/0.8876 | -->
-## 6.Comparison of Image Enhancement Effects of PBRI Algorithm
-| Original image | Enhanced image | PSNR/SSIM |
-| :---: | :---: | :---: |
-| ![原图1](.\data\carpet.png)   | ![增强图1](.\results\carpet_PBRI.png)   | 26.18/0.8880 |
-| ![原图2](.\data\flowers.png)  | ![增强图2](.\results\flowers_PBRI.png)  | 27.51/0.9085 |
-| ![原图3](.\data\star.png)     | ![增强图3](.\results\star_PBRI.png)     | 23.91/0.8274 |
-| ![原图4](.\data\window.png)   | ![增强图4](.\results\window_PBRI.png)   | 28.20/0.8876 |
+
 ## 
 Last Update: 2026.2.2
