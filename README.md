@@ -1,4 +1,5 @@
-# PBRI: Pixel-consistency Bilinear Residual Isomorphism for Single Image Detail Enhancement
+# PBRI
+This is the source code of paper named "Pixel-consistency Bilinear Residual Isomorphism for Single Image Detail Enhancement". This paper is submitted to IEEE Transactions on Wirelesss Communications.
 ## 1.Project Overview
 This project implements the Pixel-consistency Bilinear Residual Isomorphism (PBRI) algorithm, specifically designed for single image detail enhancement tasks. The related research findings will be presented at the 2026 TWC Conference and have been submitted to the IEEE Transactions on Wireless Communications journal (Under Review).
 ## 2. Quick Start
