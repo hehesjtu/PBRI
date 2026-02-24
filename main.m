@@ -1,4 +1,4 @@
-%% PBRI: Pixel-consistency Bilinear Residual Isomorphism for Single Image Detail Enhancement
+% PBRI: Pixel-consistency Bilinear Residual Isomorphism for Single Image Detail Enhancement
 %  Conference paper: TWC 2026
 %  Journal paper: IEEE Transactions on Wireless Communications (under review)
 %  First author: He Jiang
@@ -50,5 +50,6 @@ for ii = 1:LengthFiles
     toc
 
 end
+
 
 
