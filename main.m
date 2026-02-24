@@ -18,7 +18,7 @@ for ii = 1:LengthFiles
         outimg1=image(:,:,1);
         outimg2=image(:,:,2);
         outimg3=image(:,:,3);
-        %% get H1 %%
+        %% get H1 
         H1_outimg1=PBRI(outimg1);             
         H1_outimg2=PBRI(outimg2);
         H1_outimg3=PBRI(outimg3);
@@ -50,3 +50,4 @@ for ii = 1:LengthFiles
     toc
 
 end
+
